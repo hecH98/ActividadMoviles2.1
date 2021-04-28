@@ -3,120 +3,144 @@
         "name": "Hector",
         "age": 22,
         "address": "Amilcar vidal",
-        "hobby": "videogames"
+        "hobby": "videogames",
+        "phone": 1342618264
+        
     },
     {
         "name": "Paco",
         "age": 23,
         "address": "Tepic Rancho",
-        "hobby": "futbol"
+        "hobby": "futbol",
+        "phone": 1946502980
     },
     {
         "name": "Cinthya",
         "age": 22,
         "address": "Toluca",
-        "hobby": "lectura"
+        "hobby": "lectura",
+        "phone": 8746102047
     },
     {
         "name": "Rojo",
         "age": 21,
         "address": "Valle dinero loco",
-        "hobby": "dota"
+        "hobby": "dota",
+        "phone": 94576618992
     },
     {
         "name": "Fer Disney",
         "age": 21,
         "address": "Disney",
-        "hobby": "ver mickey mouse"
+        "hobby": "ver mickey mouse",
+        "phone": 11026766487
     },
     {
         "name": "Hector",
         "age": 22,
         "address": "Amilcar vidal",
-        "hobby": "videogames"
+        "hobby": "videogames",
+        "phone": 1342618264
+        
     },
     {
         "name": "Paco",
         "age": 23,
         "address": "Tepic Rancho",
-        "hobby": "futbol"
+        "hobby": "futbol",
+        "phone": 1946502980
     },
     {
         "name": "Cinthya",
         "age": 22,
         "address": "Toluca",
-        "hobby": "lectura"
+        "hobby": "lectura",
+        "phone": 8746102047
     },
     {
         "name": "Rojo",
         "age": 21,
         "address": "Valle dinero loco",
-        "hobby": "dota"
+        "hobby": "dota",
+        "phone": 94576618992
     },
     {
         "name": "Fer Disney",
         "age": 21,
         "address": "Disney",
-        "hobby": "ver mickey mouse"
+        "hobby": "ver mickey mouse",
+        "phone": 11026766487
     },
     {
         "name": "Hector",
         "age": 22,
         "address": "Amilcar vidal",
-        "hobby": "videogames"
+        "hobby": "videogames",
+        "phone": 1342618264
+        
     },
     {
         "name": "Paco",
         "age": 23,
         "address": "Tepic Rancho",
-        "hobby": "futbol"
+        "hobby": "futbol",
+        "phone": 1946502980
     },
     {
         "name": "Cinthya",
         "age": 22,
         "address": "Toluca",
-        "hobby": "lectura"
+        "hobby": "lectura",
+        "phone": 8746102047
     },
     {
         "name": "Rojo",
         "age": 21,
         "address": "Valle dinero loco",
-        "hobby": "dota"
+        "hobby": "dota",
+        "phone": 94576618992
     },
     {
         "name": "Fer Disney",
         "age": 21,
         "address": "Disney",
-        "hobby": "ver mickey mouse"
+        "hobby": "ver mickey mouse",
+        "phone": 11026766487
     },
     {
         "name": "Hector",
         "age": 22,
         "address": "Amilcar vidal",
-        "hobby": "videogames"
+        "hobby": "videogames",
+        "phone": 1342618264
+        
     },
     {
         "name": "Paco",
         "age": 23,
         "address": "Tepic Rancho",
-        "hobby": "futbol"
+        "hobby": "futbol",
+        "phone": 1946502980
     },
     {
         "name": "Cinthya",
         "age": 22,
         "address": "Toluca",
-        "hobby": "lectura"
+        "hobby": "lectura",
+        "phone": 8746102047
     },
     {
         "name": "Rojo",
         "age": 21,
         "address": "Valle dinero loco",
-        "hobby": "dota"
+        "hobby": "dota",
+        "phone": 94576618992
     },
     {
         "name": "Fer Disney",
         "age": 21,
         "address": "Disney",
-        "hobby": "ver mickey mouse"
+        "hobby": "ver mickey mouse",
+        "phone": 11026766487
     }
 ]
